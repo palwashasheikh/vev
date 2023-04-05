@@ -1,0 +1,53 @@
+.card-profile img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    padding: 3px;
+}
+
+.heading-pink {
+    color:#ff6969;
+}
+.heading-pink a{
+    color:#ff6969 !important;
+}
+
+.heading-pink a:hover {
+    color: #1d5cff;
+    text-decoration: underline;
+}
+.main-content {
+    padding-left: 280px;
+    padding-right: 280px;
+    position: relative;
+}
+.card {
+    box-shadow: rgb(0 0 0 / 3%) 0px 4px 8px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 3px;
+    border: none;
+    position: relative;
+    margin-bottom: 30px;
+}
+.single-profile {
+    width: 50%;
+    float: left;
+}
+.profile-desc {
+    display: block;
+    overflow: hidden;
+}
+.card .card-body p {
+    font-weight: 500;
+}
+.card-profile {
+    text-align: center;
+    padding: 5px;
+    padding-top: 15px;
+    font-size: 13px;
+}
+.shop-edit-icon {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}

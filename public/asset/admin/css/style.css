@@ -1,0 +1,12 @@
+
+.heading-pink {
+ color:#ff6969;
+}
+.heading-pink a{
+ color:#ff6969 !important;
+}
+
+.heading-pink a:hover {
+    color: #1d5cff;
+    text-decoration: underline;
+}
